@@ -3,14 +3,6 @@
 [![ETL.NET](streams.jpg)](https://paillave.github.io/Etl.Net/)
 [Go to full documentation](https://paillave.github.io/Etl.Net/)
 
-## :rotating_light: I need some help!!!  :ambulance:
-
-I need some serious help for the following subject:
-- :books: Documentation. The [website of ETL.NET](https://paillave.github.io/Etl.Net/) needs to be completed. It contains the essential to start and get in touch, but a dramatic amount of serious features is not documented in there.
-- :heavy_check_mark: Unit tests. A proper test code coverage is the only real way to be taken seriously when it is about selecting the right open source library. There was a time when some units tests existed only for the reactive engine of the core (Paillave.EtlNet.Core). But it happened I had to decommission it in the even of the V2 release.
-
-:envelope_with_arrow:	 Anybody who is keen to participate to the project in these regards is very welcome to contact me at admroyer@hotmail.com.
-
 ## Presentation
 
 Implementation of a mass processing engine to use in a similar way than Linq with every SSIS features and much more.
